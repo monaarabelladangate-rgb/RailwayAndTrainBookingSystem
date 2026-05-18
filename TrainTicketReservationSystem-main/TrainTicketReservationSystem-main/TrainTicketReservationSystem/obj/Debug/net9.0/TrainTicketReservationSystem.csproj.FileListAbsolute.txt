@@ -1,0 +1,14 @@
+C:\Users\Tech point\Desktop\TrainTicketReservationSystem\bin\Debug\net9.0\TrainTicketReservationSystem.exe
+C:\Users\Tech point\Desktop\TrainTicketReservationSystem\bin\Debug\net9.0\TrainTicketReservationSystem.deps.json
+C:\Users\Tech point\Desktop\TrainTicketReservationSystem\bin\Debug\net9.0\TrainTicketReservationSystem.runtimeconfig.json
+C:\Users\Tech point\Desktop\TrainTicketReservationSystem\bin\Debug\net9.0\TrainTicketReservationSystem.dll
+C:\Users\Tech point\Desktop\TrainTicketReservationSystem\bin\Debug\net9.0\TrainTicketReservationSystem.pdb
+C:\Users\Tech point\Desktop\TrainTicketReservationSystem\obj\Debug\net9.0\TrainTicketReservationSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tech point\Desktop\TrainTicketReservationSystem\obj\Debug\net9.0\TrainTicketReservationSystem.AssemblyInfoInputs.cache
+C:\Users\Tech point\Desktop\TrainTicketReservationSystem\obj\Debug\net9.0\TrainTicketReservationSystem.AssemblyInfo.cs
+C:\Users\Tech point\Desktop\TrainTicketReservationSystem\obj\Debug\net9.0\TrainTicketReservationSystem.csproj.CoreCompileInputs.cache
+C:\Users\Tech point\Desktop\TrainTicketReservationSystem\obj\Debug\net9.0\TrainTicketReservationSystem.dll
+C:\Users\Tech point\Desktop\TrainTicketReservationSystem\obj\Debug\net9.0\refint\TrainTicketReservationSystem.dll
+C:\Users\Tech point\Desktop\TrainTicketReservationSystem\obj\Debug\net9.0\TrainTicketReservationSystem.pdb
+C:\Users\Tech point\Desktop\TrainTicketReservationSystem\obj\Debug\net9.0\TrainTicketReservationSystem.genruntimeconfig.cache
+C:\Users\Tech point\Desktop\TrainTicketReservationSystem\obj\Debug\net9.0\ref\TrainTicketReservationSystem.dll
